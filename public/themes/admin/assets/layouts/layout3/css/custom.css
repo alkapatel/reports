@@ -1,0 +1,19 @@
+/* here you can put your own css to customize and override the theme */
+#calendar 
+{
+width: 100%;
+margin: 0 auto;
+}
+.fc-sun 
+{
+background-color: #fbb6b6;
+}
+.fc-sun .fc-day-number
+{
+color:#fff;
+}
+.fc-day-number
+{
+font-size: 18px;
+}
+        
